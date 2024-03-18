@@ -1,6 +1,6 @@
 name: HaselTweaks
-author: Haselnussbomber
-punchline: A collection of quality of life tweaks.
-repo_url: https://github.com/Haselnussbomber/HaselTweaks
-description: Keep on tweaking.
+author: Haselnussbomber, cyf5119(汉化)
+punchline: 一系列生活质量调整。
+repo_url: https://github.com/cyf5119/HaselTweaks
+description: 继续调整。（仅汉化，无能力修复任何功能。）
 load_required_state: 1
